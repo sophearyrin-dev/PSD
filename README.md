@@ -5,3 +5,6 @@ Lind Download: https://drive.google.com/u/0/uc?id=13bLfXJRPhW9OjWBEIEdlCztJXor0u
 
 how to install: https://www.youtube.com/watch?v=ntuR7h0D_G8
 or dowload from the file I uploaded
+
+# Using Tool
+To select any object : use quick select
