@@ -10,6 +10,7 @@ or dowload from the file I uploaded
 <img src="https://github.com/sophearyrin-dev/PSD/blob/main/psd.png"/>
 
 # Using Tool
-To select any object : use quick select
+To select any object : use quick select, unselect : press option key
+select -> subject -> inverse -> solid color
 
 
